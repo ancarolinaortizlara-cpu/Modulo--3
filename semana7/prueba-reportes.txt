@@ -1,0 +1,1 @@
+Al consultar GET /reportes después de enviar reportes por POST, la API devuelve un array con los reportes registrados en memoria. Cada reporte incluye su id, tipo y descripcion, por lo que la lista muestra todos los reportes que se han guardado mientras el servidor está en ejecución.
